@@ -1,0 +1,114 @@
+/* App*/
+
+/* Navbar */
+.name_title{
+    margin-left: 20vh;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    font-size: 28px;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: 700;
+}
+.whatsapp{
+    width: 25px;
+    z-index: 1;
+
+}
+.github{
+    width: 25px;
+}
+.linkedin{
+    width: 25px;
+}
+.instagram{
+    width: 25px;
+}
+.facebook{
+    width: 25px;
+    margin-right: 20vh;
+}
+.content-wrapper{
+    background-color: #151515;
+}
+
+.fondo{
+    height: 70vh;
+    background-color: #242424;
+    width: 50vh;
+    position: absolute;
+    z-index: 0;
+    margin-left: -25vh;
+    margin-top: -5vh;
+}
+.navbar{
+    background-color: #151515;
+
+}
+.iconos{
+    z-index: 1;
+}
+/* Principal */
+.f_text{
+    color: #fff;
+    font-family: 'Urbanist', sans-serif;
+    z-index: 10;
+    margin-left: -12vh;
+    margin-right: 10vh;
+}
+.title, .title2{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 1;
+}
+.subtitle, .subtitle2, .subtitle3{
+    font-size: 20px;
+    line-height: 1.5;
+}
+.contact_f{
+    font-weight: 700;
+    font-size: 25px;
+    border-style: solid;
+    border-color: #151515 #151515 #4de2a0 #151515;
+    width: 15.5vh;
+    color: #fff;
+    margin-left: -2vh;
+}
+.photo{
+    position: fixed;
+    margin-top: -12.5vh;
+    width: 50vh;
+    z-index: 1;
+}
+hr:not([size]) {
+    height: 2px !important;
+    background-color: #fff;
+    opacity: 1!important;
+    margin-top: 20vh;
+    margin-left: -12vh;
+    width: 162vh;
+}
+.espiral{
+    position: absolute;
+    margin-left: -4vh;
+    margin-top: -2vh;
+}
+.circulo{
+    position: absolute;
+    margin-left: 121vh;
+    margin-top: 25vh;
+    width: 20vh;
+}
+
+.title_language{
+    color: #fff;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 1;
+    margin-top: 5vh;
+}
+.subtitle_lenguage{
+    color: #fff;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 3;
+}

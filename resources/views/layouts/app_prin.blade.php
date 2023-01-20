@@ -5,7 +5,7 @@
         @include('includes.navbar_prin')
         <!-- Content Wrapper. Contains page content -->
         <div class="content-wrapper">
-                <main class="py-4">
+                <main class="py-4 ">
                     @yield('content')
                 </main>
         </div>
